@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>17.jpg</filename>
+	<path>F:\大创相关\嗜酸1.2022.03.04\嗜酸1.2022.03.04\新建文件夹\新建文件夹\17.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1760</xmin>
+			<ymin>91</ymin>
+			<xmax>2016</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>2.jpg</filename>
+	<path>F:\大创相关\嗜酸2.2022.03.10\新建文件夹\JPEGImages\2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>E3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1123</xmin>
+			<ymin>573</ymin>
+			<xmax>1379</xmax>
+			<ymax>832</ymax>
+		</bndbox>
+	</object>
+</annotation>
